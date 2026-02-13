@@ -1,10 +1,6 @@
 {
 	"name": "ds_onPremSQL",
 	"properties": {
-		"linkedServiceName": {
-			"referenceName": "ls_onprem_sql",
-			"type": "LinkedServiceReference"
-		},
 		"annotations": [],
 		"type": "SqlServerTable",
 		"schema": []
