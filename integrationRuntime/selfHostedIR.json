@@ -1,0 +1,7 @@
+{
+	"name": "selfHostedIR",
+	"properties": {
+		"type": "SelfHosted",
+		"description": "Created by Nitin on 13Feb2026"
+	}
+}

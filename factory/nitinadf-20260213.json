@@ -1,0 +1,9 @@
+{
+	"name": "nitinadf-20260213",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b61c6dc5-9930-4c34-ba2a-c13bba997415",
+		"tenantId": "7d81fa95-268d-43a8-bf45-e0a6d06c5f22"
+	}
+}
