@@ -1,0 +1,9 @@
+{
+	"name": "nitinadf2026",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "45333105-90f3-4360-8811-3d81abe65f39",
+		"tenantId": "7d81fa95-268d-43a8-bf45-e0a6d06c5f22"
+	}
+}
